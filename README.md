@@ -1,4 +1,3 @@
-# Vandor-Main Project
 # VendorConnect
 
 **VendorConnect** is a platform designed to streamline vendor management by connecting businesses with their vendors efficiently. It helps users manage vendor contacts, track orders, communicate seamlessly, and ensure timely delivery.
